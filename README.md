@@ -1,5 +1,5 @@
 Here's a summary of my Nutrition Meter project:
-
+. This project is tested with BrowserStack.
 This is a React-based nutrition tracking application that offers:
 
 Core Functionality:
